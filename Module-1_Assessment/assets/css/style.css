@@ -1,0 +1,110 @@
+header {
+    background-color: ffffff;
+    border-color: #cccccc;
+    color:#4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+
+
+.container-fluid{
+    background-color: #ffffff;
+    width:100vw;
+    height: 100px;
+}
+.container .jumbotron { 
+    margin-top: 40px;
+    border-radius: 0;
+    background-color: #ffffff;
+    width: 80vw;
+    max-height: 100%;
+    margin-bottom: 60px; 
+    align-items: center;
+    
+}
+
+.nav-item .active{
+    font-size: 15px;
+    color: #777777;
+}
+
+
+footer {
+    background-color: #666666;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    padding-left: 50%;
+    padding-top: 16px;
+    height: 40px;
+    font-size: 12px;
+    border-top-style: solid;
+    border-top-color:#4aaaa5;
+}
+hr {
+    position:relative; 
+    bottom:65px; 
+    right:15px;
+    height: 2px;
+    background-color: #dddddd;
+    margin-bottom: 15px;
+}
+
+#nametab {
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: white;
+    margin-left: 180px;
+    padding-bottom: 10px; 
+    padding-left: 25px;
+    font-size: 25px;
+
+}
+
+#hr1 {
+    position:relative; 
+    bottom:65px; 
+    right:15px;
+    height: 2px;
+    background-color: #dddddd;
+    margin-bottom: 15px;
+}
+
+#fname{
+    position: relative;
+    bottom: 30px
+}
+#footer1{
+    position: fixed;
+    bottom: 0;
+    margin-top: auto;
+    color: white;
+
+}
+
+#contactpage{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ .btn {
+    background-color: #4aaaa5;
+    border-color: #4aaaa5;
+ }
+
+img {
+    width: 300px;
+    height: 150px;
+    float: left;
+    margin-bottom: 25px;
+}
+
+#myPic {
+    float: left;
+    position: relative;
+    right: 20px;
+    bottom: 45px;
+    height: 300px;
+}
